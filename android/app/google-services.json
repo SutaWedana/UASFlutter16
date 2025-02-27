@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520435367456",
+    "project_id": "uasflutterjuyce",
+    "storage_bucket": "uasflutterjuyce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520435367456:android:9067252664d692f3468645",
+        "android_client_info": {
+          "package_name": "com.example.uasjuyce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJKuSDhDgtSvAkPsPurZuyJO4KDVA0JxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
